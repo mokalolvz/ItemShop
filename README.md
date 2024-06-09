@@ -1,6 +1,6 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
-na
+CID_648_Athena_Commando_F_MsAlpine, 1500
+CID_659_Athena_Commando_M_MrIceGuy, 1500
+CID_642_Athena_Commando_F_ConstellationStar, 2000
 na
 na
 na
